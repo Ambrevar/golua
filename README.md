@@ -1,11 +1,12 @@
 # Golua Unicode Support
 
-This extension to [Arzilli's Golua](github.com/aarzilli/golua/lua) adds Unicode
-support to all functions from the Lua string library.
+This extension to [Arzilli's Golua](http://github.com/aarzilli/golua) adds
+Unicode support to all functions from the Lua string library.
 
-Lua patterns are replaced by [Go regexps](github.com/google/re2/wiki/Syntax).
-This breaks compatibility with Lua, but Unicode support breaks it anyways and Go
-regexps are more powerful.
+Lua patterns are replaced by
+[Go regexps](http://github.com/google/re2/wiki/Syntax). This breaks
+compatibility with Lua, but Unicode support breaks it anyways and Go regexps are
+more powerful.
 
 ## Example
 
