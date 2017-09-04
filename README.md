@@ -14,7 +14,7 @@ more powerful.
 package main
 
 import (
-	"bitbucket.org/ambrevar/golua/unicode"
+	"github.com/ambrevar/golua/unicode"
 	"github.com/aarzilli/golua/lua"
 )
 
